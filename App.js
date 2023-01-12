@@ -4,13 +4,13 @@ import React, { Component } from 'react';
 import { View, Text } from 'react-native'
 import firebase from 'firebase/compat/app';
 const firebaseConfig = {
-  apiKey: "AIzaSyDZ2cZAfmBmx4xeIlWjucBdN6dw7m-JAbk",
-  authDomain: "wakeup-f2fcd.firebaseapp.com",
-  projectId: "wakeup-f2fcd",
-  storageBucket: "wakeup-f2fcd.appspot.com",
-  messagingSenderId: "591126108946",
-  appId: "1:591126108946:web:d5b87c1b531397a00871cb",
-  measurementId: "G-RT44K7989V"
+  apiKey: "AIzaSyCL4tiaPq4x3C9qnlKnNSXO1EKRhbGbiQA",
+  authDomain: "wakeup-1d876.firebaseapp.com",
+  projectId: "wakeup-1d876",
+  storageBucket: "wakeup-1d876.appspot.com",
+  messagingSenderId: "290035999811",
+  appId: "1:290035999811:web:d25b8caa3331b434ace0f6",
+  measurementId: "G-NYBPQZ1ZWJ"
 };
 
 firebase.initializeApp(firebaseConfig);
